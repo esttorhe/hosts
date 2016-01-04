@@ -11,6 +11,10 @@
 
 # Custom host records are listed here.
 
+10.0.1.69 rails.creegan.com
+10.0.1.94 craft.esttorhe.com
+10.0.0.101 brewbro
+0.0.0.0 apps.id.net 
 
 # End of custom host records.
 # AdAway default blocklist
