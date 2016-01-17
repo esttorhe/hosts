@@ -536,7 +536,7 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 do-not-tracker.org ##
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         Last updated: Fri, 15 Jan 16 11:33:55 +0000      #
+#         Last updated: Sat, 16 Jan 16 15:12:47 +0000      #
 
 
 0.0.0.0 0koryu0.easter.ne.jp
@@ -1820,6 +1820,7 @@
 0.0.0.0 www.askmeaboutrotary.com
 0.0.0.0 www.assculturaleincontri.it
 0.0.0.0 www.asu.msmu.ru
+0.0.0.0 www.atheme-formation.fr
 0.0.0.0 www.atousoft.com
 0.0.0.0 www.aucoeurdelanature.com
 0.0.0.0 www.avidnewmedia.it
@@ -1895,6 +1896,7 @@
 0.0.0.0 www.image-werbebedarf.de
 0.0.0.0 www.imagerieduroc.com
 0.0.0.0 www.infra.by
+0.0.0.0 www.insidepitch.ca
 0.0.0.0 www.intaii.com
 0.0.0.0 www.joomlalivechat.com
 0.0.0.0 www.kcta.or.kr
@@ -17381,7 +17383,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 14th, 2016 at 16:07
+# Last updated: Jan 16th, 2016 at 11:26
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -28305,6 +28307,7 @@
 0.0.0.0 amung.us
 0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
+0.0.0.0 analytics.google.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 api.intensifier.de
 0.0.0.0 apture.com
